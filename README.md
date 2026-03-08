@@ -34,12 +34,9 @@ After State 6, the sequence repeats from State 1.
 
 ```
 traffic-light-controller/
-├── rtl/
-│   └── traffic_light_controller.v   # Main RTL design
-├── tb/
-│   └── tb_traffic_light.sv          # UVM Testbench
-├── sim/
-│   └── ...                          # Simulation outputs / waveforms
+├── traffic_light_controller.v                       # Main RTL design
+├── tb_traffic_light.v                               # Testbench
+├── traffic_light.vcd                                # Simulation outputs / waveforms
 └── README.md
 ```
 
