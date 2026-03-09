@@ -26,7 +26,7 @@ After State 6, the sequence repeats from State 1.
 |Tool / Language|Purpose|
 |-|-|
 |**Verilog**|RTL design and synthesizable implementation|
-|**UVM (Universal Verification Methodology)**|Functional verification and testbench development|
+|**Direct Testing (Simulation based Verification Methodology)**|Functional verification and testbench development|
 
 ---
 
